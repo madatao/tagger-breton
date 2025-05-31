@@ -25,12 +25,9 @@ title: Tagger brezhoneg / Tagger breton
 Setu ar pezh a c’hallit pellgargañ eus ar stumm `brezhoneg-v1.0` :  
 *Voici les fichiers disponibles dans le dossier `brezhoneg-v1.0` :*
 
-- [`Dict.rktd`](./brezhoneg-v1.0/Dict.rktd) — Geriadur (50 000 enankad)  
-  *Morphological dictionary*
-- [`main.rkt`](./brezhoneg-v1.0/main.rkt) — Keframmad penn evit lañsañ an analiz  
-  *Main module to launch the analysis*
-- [`fonctions.rkt`](./brezhoneg-v1.0/fonctions.rkt) — Renkad reolennoù ha fonksionoù  
-  *Rules and helper functions*
+- [Dict.rktd](https://github.com/madatao/tagger-breton/raw/main/brezhoneg-v1.0/Dict.rktd)
+- [main.rkt](https://github.com/madatao/tagger-breton/raw/main/brezhoneg-v1.0/main.rkt)
+- [fonctions.rkt](https://github.com/madatao/tagger-breton/raw/main/brezhoneg-v1.0/fonctions.rkt)
 
 ---
 
